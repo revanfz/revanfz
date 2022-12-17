@@ -45,5 +45,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=revanfz&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanfz&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanfz&theme=gruvbox" />
 </a>
